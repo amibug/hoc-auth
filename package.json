@@ -4,7 +4,7 @@
   "description": "权限控制",
   "main": "index.js",
   "author": {
-    "name": "evan.wyd",
+    "name": "wuyuedong",
     "email": "hzxs1990225@163.com"
   },
   "scripts": {
@@ -30,11 +30,5 @@
     "react": "^15.x",
     "react-addons-transition-group": "^15.x",
     "react-dom": "^15.x"
-  },
-  "keywords": [
-    "auth"
-  ],
-  "publishConfig": {
-    "registry": "http://registry.npm.alibaba-inc.com"
   }
 }
