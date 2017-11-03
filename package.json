@@ -1,0 +1,40 @@
+{
+  "name": "hoc-auth",
+  "version": "1.0.0",
+  "description": "权限控制",
+  "main": "index.js",
+  "author": {
+    "name": "evan.wyd",
+    "email": "hzxs1990225@163.com"
+  },
+  "scripts": {
+    "precommit": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:amibug/hoc-auth.git"
+  },
+  "dependencies": {},
+  "peerDependencies": {
+    "react": "^15.x",
+    "react-dom": "^15.x",
+    "react-addons-transition-group": "^15.x",
+    "esprima": "^4.0.0"
+  },
+  "devDependencies": {
+    "enzyme": "2.x",
+    "eslint": "^4.10.0",
+    "expect.js": "0.x",
+    "husky": "0.x",
+    "mocha": "3.x",
+    "react": "^15.x",
+    "react-addons-transition-group": "^15.x",
+    "react-dom": "^15.x"
+  },
+  "keywords": [
+    "auth"
+  ],
+  "publishConfig": {
+    "registry": "http://registry.npm.alibaba-inc.com"
+  }
+}
