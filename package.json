@@ -8,7 +8,6 @@
     "email": "hzxs1990225@163.com"
   },
   "scripts": {
-    "precommit": "npm run lint"
   },
   "repository": {
     "type": "git",
